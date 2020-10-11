@@ -1,4 +1,5 @@
 # curso-django
+## praticando o framework Django
 
 Repositório criado para exercitar o Módulo Django do [Curso Python Pro](www.python.pro.br)
 
