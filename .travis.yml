@@ -9,11 +9,16 @@ services:
  postgresql
 addons:
  postgresql: '12.4'
+ apt:
+  packages:
+    - postgresql-12.4
+    - postgresql-client-12.4
 
 env:
   global:
   - PIPENV_VENV_IN_PROJECT=1
   - PIPENV_IGNORE_VIRTUALENVS=1
+  - PGPORT=5433
 
 install:
 - pip install pipenv
