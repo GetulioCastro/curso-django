@@ -3,7 +3,7 @@
 
 Repositório criado para exercitar o Módulo Django do [Curso Python Pro](www.python.pro.br)
 
-Projeto disponível no [Heroku](https://cursodjangopyprogc.herokuapp.com/ )
+Projeto disponível no [Heroku](https://cursodjangopyprogc.herokuapp.com/)
 
 [![Build Status](https://travis-ci.org/GetulioCastro/curso-django.svg?branch=master)](https://travis-ci.org/GetulioCastro/curso-django)
 [![codecov](https://codecov.io/gh/GetulioCastro/curso-django/branch/master/graph/badge.svg)](https://codecov.io/gh/GetulioCastro/curso-django)
