@@ -6,10 +6,9 @@ python:
 - 3.8
 
 services:
-postgresql
-
+ postgresql
 addons:
-postgresql: '9.5'
+ postgresql: '12.4'
 
 env:
   global:
